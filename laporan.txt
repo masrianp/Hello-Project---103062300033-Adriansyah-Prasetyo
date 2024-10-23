@@ -1,0 +1,9 @@
+Daftar Kendaraan yang Sudah Ditambahkan Tiket Parkir:
+1. B5656JUI - mobil
+   Waktu Masuk: 2024-06-10 09:00, Waktu Keluar: 2024-06-10 12:00, Total Pembayaran: 15000.00
+2. B6767CKL - mobil
+   Waktu Masuk: 2024-06-10 08:00, Waktu Keluar: 2024-06-10 12:00, Total Pembayaran: 20000.00
+
+Total Mobil: 2
+Total Motor: 0
+Total Saldo: 35000.00
